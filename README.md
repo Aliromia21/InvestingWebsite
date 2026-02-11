@@ -44,7 +44,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Aliromia21/InvestingWebsite.git
-cd YOUR_REPO
+cd InvestingWebsite
 ```
 
 Install dependencies:
